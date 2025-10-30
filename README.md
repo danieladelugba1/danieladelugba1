@@ -11,7 +11,7 @@
 
 
 ## 🧩 Featured Projects
-🌟 [Awesome Project]([(https://github.com/iBaguette/hacknotts-25)]
+🌟 [Awesome Project](https://github.com/iBaguette/hacknotts-25)
 A Pygame Medieval tower defence game, integrated with a global leaderboard
 
 📊 [Data Dashboard](https://github.com/yourusername/data-dashboard)  
