@@ -4,19 +4,15 @@
 
 💡 I love building efficient systems, learning new technologies, and contributing to open source.
 
-## 🔧 Technologies & Tools
-- Languages: Python, JavaScript, C++
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, AWS, VS Code
+## 🔧 Technical Skills
+- **Programming Languages**: Python, JavaScript, C++
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools and Platforms**: Git, JUnit testing, VS Code, IntelliJ, Eclipse, SQLite, and Microsoft Office Suite
+
 
 ## 🧩 Featured Projects
 🌟 [Awesome Project]([(https://github.com/iBaguette/hacknotts-25)]
 A Pygame Medieval tower defence game, integrated with a global leaderboard
 
 📊 [Data Dashboard](https://github.com/yourusername/data-dashboard)  
-An interactive data visualization dashboard built with React and D3.js.
-
-## 📫 How to reach me
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
+An interactive data visualisation dashboard built with React and D3.js.
