@@ -10,8 +10,8 @@
 - Tools: Git, Docker, AWS, VS Code
 
 ## 🧩 Featured Projects
-🌟 [Awesome Project](https://github.com/yourusername/awesome-project)  
-An AI-powered chatbot that helps with customer support automation.
+🌟 [Awesome Project]([(https://github.com/iBaguette/hacknotts-25)]
+A Pygame Medieval tower defence game, integrated with a global leaderboard
 
 📊 [Data Dashboard](https://github.com/yourusername/data-dashboard)  
 An interactive data visualization dashboard built with React and D3.js.
