@@ -16,6 +16,12 @@ A Pygame Medieval tower defence game, integrated with a global leaderboard
 Devpost can be found [here](https://devpost.com/software/medieval-tower-defense)
 
 🕹️ [Interface Game Development - Reversi]()  
-University project to develop the Reversi board game in Java using the MVC design pattern. The game features an AI opponent which greedily chooses the best available move. Achieved 100% mark
+Developed a Reversi board game using the Model-View-Controller design pattern
+- Ensured flexibility and modularity with custom controller and view subclasses
+- Implemented AI auto-move functionality
+- Designed a user-friendly interface using Java Swing and AWT to display real-time game updates for both players
+
+  <img width="319" height="384" alt="image" src="https://github.com/user-attachments/assets/d1fde7a5-9330-4e1a-9f3c-ed3fdbe135bb" />
+
 
 
