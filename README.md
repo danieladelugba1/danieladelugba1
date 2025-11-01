@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-Software Engineering Student | C++ & Python Developer | Agile Team Leader | Tennis Player
+Software Engineering Student | C, Java & Python Developer | Agile Team Leader | Tennis Player
 
 I love building efficient systems, learning new technologies, and contributing to open source.
 
