@@ -11,7 +11,7 @@ I love building efficient systems, learning new technologies, and contributing t
 
 
 ## 🧩 Featured Projects
-🌟 [Medieval Tower Defence Project](https://github.com/iBaguette/hacknotts-25)
+🌟 [Medieval Tower Defence Project](https://github.com/danieladelugba1/hacknotts-25)
 A Pygame Medieval tower defence game, integrated with a global leaderboard
 Devpost can be found [here](https://devpost.com/software/medieval-tower-defense)
 
