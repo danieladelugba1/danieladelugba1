@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-🚀  Software Engineering Student | C++ & Python Developer | Agile Team Leader | Tennis Player
+Software Engineering Student | C++ & Python Developer | Agile Team Leader | Tennis Player
 
 I love building efficient systems, learning new technologies, and contributing to open source.
 
@@ -15,5 +15,7 @@ I love building efficient systems, learning new technologies, and contributing t
 A Pygame Medieval tower defence game, integrated with a global leaderboard
 Devpost can be found [here](https://devpost.com/software/medieval-tower-defense)
 
-📊 [Data Dashboard](https://github.com/yourusername/data-dashboard)  
-An interactive data visualisation dashboard built with React and D3.js.
+🕹️ [Interface Game Development - Reversi]()  
+University project to develop the Reversi board game in Java using the MVC design pattern. The game features an AI opponent which greedily chooses the best available move. Achieved 100% mark
+
+
