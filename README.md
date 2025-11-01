@@ -11,8 +11,9 @@ I love building efficient systems, learning new technologies, and contributing t
 
 
 ## 🧩 Featured Projects
-🌟 [Awesome Project](https://github.com/iBaguette/hacknotts-25)
+🌟 [Medieval Tower Defence Project](https://github.com/iBaguette/hacknotts-25)
 A Pygame Medieval tower defence game, integrated with a global leaderboard
+Devpost can be found [here](https://devpost.com/software/medieval-tower-defense)
 
 📊 [Data Dashboard](https://github.com/yourusername/data-dashboard)  
 An interactive data visualisation dashboard built with React and D3.js.
