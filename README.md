@@ -23,5 +23,6 @@ Developed a Reversi board game using the Model-View-Controller design pattern
 
   <img width="319" height="384" alt="image" src="https://github.com/user-attachments/assets/d1fde7a5-9330-4e1a-9f3c-ed3fdbe135bb" />
 
+- If you'd like to know more about what I do, feel free to browse my [LinkedIn](https://www.linkedin.com/in/danieladelugba/)
 
 
