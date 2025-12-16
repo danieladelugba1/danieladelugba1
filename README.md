@@ -6,9 +6,9 @@
 
 ## ♧ About Me
 
-- Currently I am studying Computer Sience and I am seeking a Software Engineer placement/intership for the upcoming 2026 summer.
-- I enjoy working on building systems that are efficent and practical not just from a develper point of view but also from an end user, my most recent projects are forcused on game development which involve global leaderboard, AI logic, and more
-- I am someone who is natural leader, which has been strengthen in the last few years shown through a range of roles and experiences including Team Leader/Project manager for 2 separate software engineering group projects, Team captain for Univeristy of Nottingham Tennis team, Offered Supervisor after two months of being hired in first professional job
+- Currently, I am studying Computer Science and seeking a Software Engineer placement/intership for the upcoming 2026 summer.
+- I enjoy working on building systems that are efficient and practical, not just from a developer's point of view but also from an end user's. My most recent projects are focused on game development, which involve a global leaderboard, AI logic, and more
+- I am someone who is a natural leader, which has been strengthened in the last few years, shown through a range of roles and experiences, including Team Leader/Project manager for 2 separate software engineering group projects, Team captain for the University of Nottingham Tennis team, and Offered Supervisor after two months of being hired in my first professional job
 
 **Tech Interests:** Open Source, Game Development, Concurrent programming, Web Development, APIs
 
