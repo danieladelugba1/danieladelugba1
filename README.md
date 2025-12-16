@@ -34,6 +34,11 @@ Git · JUnit testing · Xcode · VS Code · IntelliJ · Eclipse · SQLite
 🌟 [Medieval Tower Defence Project](https://github.com/danieladelugba1/hacknotts-25)
 A Pygame Medieval tower defence game, integrated with a global leaderboard
 - Devpost can be found [here](https://devpost.com/software/medieval-tower-defense)
+- Demo can be found [here](https://www.youtube.com/embed/Z9q1o29vjfc)
+  
+  <img width="806" height="490" alt="image" src="https://github.com/user-attachments/assets/dd0c13ee-8e8a-4209-9c73-ba10b8ebf124" />
+  <img width="806" height="556" alt="image" src="https://github.com/user-attachments/assets/fb7aa952-09d5-4113-9c6a-8774f80d6580" />
+
 
 🕹️ [Interface Game Development - Reversi]()  
 Developed a Reversi board game using the Model-View-Controller design pattern
