@@ -12,6 +12,10 @@
 
 **Tech Interests:** Open Source, Game Development, Concurrent programming, Web Development, APIs
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ## ⌨️ Tech Stack
