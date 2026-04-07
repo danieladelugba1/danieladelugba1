@@ -18,7 +18,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://c.oling.dev
+          API_BASE_URL: https://c.oling.dev/api
           SHOW_TOTAL: true
           SHOW_TIME: true
           COMMIT_MESSAGE: "chore: update dev metrics" 
