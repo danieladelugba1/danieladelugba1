@@ -17,6 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 1 hrs 43 mins
+
 C++       1 hrs 6 mins          ████████████████░░░░░░░░░   64.39 %
 C         0 hrs 31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.78 %
 Unknown   0 hrs 6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
