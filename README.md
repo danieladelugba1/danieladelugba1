@@ -15,6 +15,22 @@
 
 ---
 
+## ⌨️ Tech Stack
+
+**Languages**\
+C · Objective C++ · C++ · Python  · Java · SQL · Haskell · ARM Assembly · HDL
+
+**Web Development**\
+HTML · JavaScript · CSS 
+
+**Practises**\
+Agile · Test-Driven Development · Object-oriented Design · MVC pattern
+
+**Tools & Platforms**\
+Git · JUnit testing · Xcode · VS Code · IntelliJ · Eclipse · SQLite
+
+---
+
 ## Dev Stats for Last 30 Days 📊
 <!--START_SECTION:waka-->
 
@@ -35,21 +51,6 @@ Lean4            1 hrs 46 mins   █░░░░░░░░░░░░░░�
 
 ---
 
-## ⌨️ Tech Stack
-
-**Languages**\
-C · Objective C++ · C++ · Python  · Java · SQL · Haskell · ARM Assembly · HDL
-
-**Web Development**\
-HTML · JavaScript · CSS 
-
-**Practises**\
-Agile · Test-Driven Development · Object-oriented Design · MVC pattern
-
-**Tools & Platforms**\
-Git · JUnit testing · Xcode · VS Code · IntelliJ · Eclipse · SQLite
-
----
 
 ## 🧩 Featured Projects
 🌟 [Medieval Tower Defence Project](https://github.com/danieladelugba1/hacknotts-25)
