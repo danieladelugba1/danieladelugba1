@@ -19,6 +19,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://c.oling.dev/api
-          RANGE: all_time
           STATS_RANGE: all_time
+          SHOW_TOTAL: true
           COMMIT_MESSAGE: "chore: update dev metrics" 
