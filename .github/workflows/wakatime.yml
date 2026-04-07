@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: athul/waka-readme@v0.2.0
+      - uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://c.oling.dev/api
