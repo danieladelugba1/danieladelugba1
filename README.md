@@ -17,6 +17,17 @@
 
 ## Dev Stats for Last 30 Days 📊
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 47 hrs 46 mins
+
+C++              22 hrs 46 mins  ████████████░░░░░░░░░░░░░   47.67 %
+Unknown          11 hrs 40 mins  ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+C/c++            5 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+C                2 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Lean4            1 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Activity Graph 📈 
