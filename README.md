@@ -12,9 +12,24 @@
 
 **Tech Interests:** Open Source, Game Development, Concurrent programming, Web Development, APIs
 
+## 📊 Developer Activity
+
+<!-- WakaTime Stats -->
+
+### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
+
+---
+
+## 🧠 Coding Activity Graph
+
+<div align="center">
+
+</div>
+
 
 ---
 
