@@ -35,13 +35,13 @@ Git · JUnit testing · Xcode · VS Code · IntelliJ · Eclipse · SQLite
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 32 hrs 58 mins
+Total Time: 26 hrs 18 mins
 
-C++              18 hrs 55 mins  ██████████████▒░░░░░░░░░░   57.41 %
-Unknown          5 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-C                2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Lean4            2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-C/c++ header     1 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+C++              13 hrs 19 mins  ████████████▓░░░░░░░░░░░░   50.60 %
+Unknown          5 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+Lean4            2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+C                1 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+C/c++ header     1 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:waka-->
