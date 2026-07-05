@@ -15,10 +15,15 @@
 
 ---
 
+## 🧩 Projects + more
+[Find my projects and more information about me here](https://danieladelugba1.github.io/portfolio)
+
+---
+
 ## ⌨️ Tech Stack
 
 **Languages**\
-C · Objective C++ · C++ · Python  · Java · SQL · Haskell · ARM Assembly · HDL
+C · Objective C++ · C++ · Python  · Java · SQL 
 
 **Web Development**\
 HTML · JavaScript · CSS 
@@ -51,11 +56,7 @@ Markdown     0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 
 ---
 
-
-## 🧩 Featured Projects
-🌟 [Find my projects and more information about me here](https://danieladelugba1.github.io/portfolio)
-
-## 📇 Contact
+## 📇 Let's Connect 
 
 - **Email:** [danieladelugba1111@gmail.com](mailto\:danieladelugba1111@gmail.com)
 - **LinkedIn:** [https://linkedin.com/in/danieladelugba](https://www.linkedin.com/in/danieladelugba/)
