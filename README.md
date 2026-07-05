@@ -53,22 +53,7 @@ Markdown     0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 
 
 ## 🧩 Featured Projects
-🌟 [Medieval Tower Defence Project](https://github.com/danieladelugba1/hacknotts-25)
-A Pygame Medieval tower defence game, integrated with a global leaderboard
-- Devpost can be found [here](https://devpost.com/software/medieval-tower-defense)
-- Demo can be found [here](https://www.youtube.com/embed/Z9q1o29vjfc)
-  
-  <img width="806" height="490" alt="image" src="https://github.com/user-attachments/assets/dd0c13ee-8e8a-4209-9c73-ba10b8ebf124" />
-  <img width="806" height="556" alt="image" src="https://github.com/user-attachments/assets/fb7aa952-09d5-4113-9c6a-8774f80d6580" />
-
-
-🕹️ [Interface Game Development - Reversi]()  
-Developed a Reversi board game using the Model-View-Controller design pattern
-- Ensured flexibility and modularity with custom controller and view subclasses
-- Implemented AI auto-move functionality
-- Designed a user-friendly interface using Java Swing and AWT to display real-time game updates for both players
-
-  <img width="319" height="384" alt="image" src="https://github.com/user-attachments/assets/d1fde7a5-9330-4e1a-9f3c-ed3fdbe135bb" />
+🌟 [Find my projects and more information about me here](https://danieladelugba1.github.io/portfolio)
 
 ## 📇 Contact
 
