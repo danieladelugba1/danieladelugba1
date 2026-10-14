@@ -42,8 +42,8 @@ Git · JUnit testing · Xcode · VS Code · IntelliJ · Eclipse · SQLite
 ```txt
 Total Time: 4 hrs 6 mins
 
-Python    3 hrs 22 mins   ████████████████████▓░░░░   82.30 %
-Unknown   0 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+Python    3 hrs 22 mins   ████████████████████▓░░░░   82.18 %
+Unknown   0 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
 Text      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
